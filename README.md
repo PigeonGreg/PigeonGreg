@@ -2,8 +2,6 @@
 
 ### Student
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PigeonGreg&label=Profile views&color=0e75b6&style=flat" alt="PigeonGreg" /> </p>
-
 - 🔭 I'm currently working on **improving my skills**
 
 - 🌱 I'm currently **studying in college to be a system administrator**
